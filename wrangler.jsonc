@@ -1,0 +1,11 @@
+{
+  "name": "avimanj-assistant",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-24",
+  "observability": {
+    "enabled": true
+  },
+  "vars": {
+    "BOT_TOKEN": "8450681970:AAEk0ZxMIOrtWytI16abKaa5V-oKQSYbQ7Y"
+  }
+}
